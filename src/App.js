@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-  let HOUSEWIVES_URL = "http://housewives-backend.herokuapp.com/housewives.json"
+  let HOUSEWIVES_URL = "https://housewives-backend.herokuapp.com/housewives.json"
 
 
 function App() {
